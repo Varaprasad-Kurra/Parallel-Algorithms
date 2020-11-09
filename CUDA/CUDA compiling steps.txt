@@ -1,0 +1,9 @@
+In cmd for file transfer
+
+pscp "C:\Users\VaraPrasad\Desktop\new2.cu" vkurra1@hpclogin201.rs.gsu.edu:/home/users/vkurra1
+
+In Putty for compiling
+
+nvcc new1.cu -o new1.exe
+
+./new1.exe
